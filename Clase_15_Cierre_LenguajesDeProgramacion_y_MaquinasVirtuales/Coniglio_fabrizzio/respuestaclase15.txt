@@ -1,0 +1,5 @@
+1) Esto se debe a que cada lenguaje de programacion acepta arquitectura y SO diferente
+2) Es una maquina virtual de sistema
+3) No afecta a la demas ya que gracias a la virtualizacion existe la opcion HA que permite tener redundancia entre 2 o mas ambientes
+
+
